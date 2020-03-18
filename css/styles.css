@@ -1,13 +1,10 @@
-h2.intro {
+.intro {
   text-align: center;
   font-family: monospace;
   font-weight: bold;
 }
 
 p.intro {
-  text-align: center;
-  font-family: monospace;
-  font-weight: bold;
   color: gray;
   font-size: larger;
 }
