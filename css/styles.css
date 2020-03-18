@@ -9,6 +9,7 @@ p.intro {
   font-family: monospace;
   font-weight: bold;
   color: gray;
+  font-size: larger;
 }
 
 img.intro {
@@ -27,4 +28,5 @@ h1 {
   font-family: monospace;
   font-weight: bold;
   color: black;
+  text-align: center;
 }
