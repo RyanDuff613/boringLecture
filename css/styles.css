@@ -27,3 +27,9 @@ h1 {
   color: black;
   text-align: center;
 }
+
+.boxed {
+  color: red;
+  border-color: red;
+  border-style: dashed;
+}
